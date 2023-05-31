@@ -55,4 +55,3 @@ SCSS는 _ 로 시작하는 파일은 컴파일하지 않는다.
 
 # @forward 는 파샬을 묶어줌 style.scss에서는 _index.scss를 호출하여 사용함
 ![image](https://github.com/minjukimmm/sasss/assets/129017089/702ee09c-3ec2-4105-9357-7606f62831bb)
-
