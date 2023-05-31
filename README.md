@@ -37,3 +37,8 @@ Partials(파샬)의 파일명은 _ 로 시작하며
 SCSS는 _ 로 시작하는 파일은 컴파일하지 않는다.
 
 ![image](https://github.com/minjukimmm/sasss/assets/129017089/9c0c51a6-f9d2-486c-8fa5-19f5ca93780f)
+
+
+#import
+#use
+![image](https://github.com/minjukimmm/sasss/assets/129017089/01795089-e295-4893-8f88-be4be4a3f5e6)
