@@ -39,6 +39,17 @@ SCSS는 _ 로 시작하는 파일은 컴파일하지 않는다.
 ![image](https://github.com/minjukimmm/sasss/assets/129017089/9c0c51a6-f9d2-486c-8fa5-19f5ca93780f)
 
 
-#import
-#use
-![image](https://github.com/minjukimmm/sasss/assets/129017089/01795089-e295-4893-8f88-be4be4a3f5e6)
+# @import -> 변수가 중복될때는 아래의 것이 적용된다. 
+
+![image](https://github.com/minjukimmm/sasss/assets/129017089/1894cb4e-8c19-476f-bc98-a0ea2b25096f)
+
+
+# @use -> 변수 이름이 같을 때 에러 발생, @use를 사용할때는 앞에 파일명을 추가해서 파일명.변수명
+![image](https://github.com/minjukimmm/sasss/assets/129017089/3d4097d8-c6ed-40e8-9c65-ce8bd484d003)
+
+
+# as 뒤에 별명을 붙여서 사용할수 있다.
+![image](https://github.com/minjukimmm/sasss/assets/129017089/1b675be2-d272-47ad-ae01-557b60718a99)
+
+
+# forward
