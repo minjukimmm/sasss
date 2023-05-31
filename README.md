@@ -1,5 +1,5 @@
 sass 요즘엔 사용 안함, SCSS를 사용한다. (샤스싸쓰쌰쓰)
-image
+![image](https://github.com/minjukimmm/sasss/assets/129017089/e4366bf7-5c74-40f7-a939-e39eceedce7c)
 
 scss 컴파일
 image
