@@ -71,4 +71,11 @@ SCSS는 _ 로 시작하는 파일은 컴파일하지 않는다.
 #함수
 ![image](https://github.com/minjukimmm/sasss/assets/129017089/9d8e561c-cfad-44f6-85ab-e484c174d2e7)
 
+![image](https://github.com/minjukimmm/sasss/assets/129017089/b7dffe7e-532c-4ed1-853c-63e9dfb37ba8)
+
+# extend
+![image](https://github.com/minjukimmm/sasss/assets/129017089/014fb95c-37fd-4ff4-b7ff-37ae6ea65f31)
+
+
+
 
