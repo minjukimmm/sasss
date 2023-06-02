@@ -60,6 +60,7 @@ SCSS는 _ 로 시작하는 파일은 컴파일하지 않는다.
 
 
 # 전역변수와 지역변수
+![image](https://github.com/minjukimmm/sasss/assets/129017089/755c49c1-f2c3-44b3-b41b-d9fdab522477)
 
 
 # 보간법
